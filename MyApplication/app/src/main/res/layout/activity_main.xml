@@ -29,8 +29,15 @@
             android:id="@+id/searchBar"
             android:layout_width="match_parent"
             android:layout_height="match_parent"></SearchView>
+        <Button
+            android:id="@+id/btnSendRequest"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Button" />
 
     </LinearLayout>
+
+
 
     <LinearLayout
         android:id="@+id/botLayout"
