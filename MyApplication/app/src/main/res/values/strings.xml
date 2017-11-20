@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">My Application</string>
+    <string name="searchButtonText">Αναζήτηση</string>
+    <string name="ApplicationTitle">CookZ</string>
 </resources>
